@@ -3,11 +3,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" >💫  About Me</h3>
 
 ###
 
-<p align="left">I'm Archi Singhal from India. <br><br>- 🔭 I’m a college student.<br>- 📚 I'm currently learning devops, cloud computing.<br>- ⚡ In my free time I like to play games and read books.</p>
+<p align="left">I'm Archi Singhal  <br><br>- 🔭 I’m a college student.<br>- 📚 I'm currently learning devops, cloud computing.<br>- ⚡ In my free time I like to play games and read books.</p>
 
 ###
 
