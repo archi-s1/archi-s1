@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Archi Singhal  <br><br>- 🔭 I’m a college student.<br>- 📚 I'm currently learning devops, cloud computing.<br>- ⚡ In my free time I like to play games and read books.</p>
+<p align="left">I'm Archi.  <br><br>- 🔭 I’m a college student.<br>- 📚 I'm currently learning devops, cloud computing.<br>- ⚡ In my free time I like to play games and read books.</p>
 
 ###
 
